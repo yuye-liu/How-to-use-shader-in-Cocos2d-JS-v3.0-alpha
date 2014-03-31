@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp"
+            timestampString = "417670071.303428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36979"
+            endingLineNumber = "36979"
+            landmarkName = "js_cocos2dx_ParticleBatchNode_createWithTexture(JSContext *cx, uint32_t argc, jsval *vp)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp"
+            timestampString = "417670134.23484"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35147"
+            endingLineNumber = "35147"
+            landmarkName = "js_cocos2dx_Sprite_createWithTexture(JSContext *cx, uint32_t argc, jsval *vp)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp"
+            timestampString = "417672740.182495"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35904"
+            endingLineNumber = "35904"
+            landmarkName = "js_cocos2dx_RenderTexture_getSprite(JSContext *cx, uint32_t argc, jsval *vp)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "js_cocos2dx_RenderTexture_getSprite(JSContext*, unsigned int, JS::Value*)"
+                  moduleName = "projectName iOS"
+                  urlString = "file:///Users/liuyuye/Desktop/projectName/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp"
+                  timestampString = "417673082.624217"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35904"
+                  endingLineNumber = "35904"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "js_cocos2dx_RenderTexture_getSprite(JSContext*, unsigned int, JS::Value*)"
+                  moduleName = "projectName iOS"
+                  urlString = "file:///Users/liuyuye/Desktop/projectName/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp"
+                  timestampString = "417673082.624549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35904"
+                  endingLineNumber = "35904"
+                  offsetFromSymbolStart = "150">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
